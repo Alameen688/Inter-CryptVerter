@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4285f4</color>
+    <color name="colorPrimaryDark">#4078c0</color>
+    <color name="colorAccent">#c9510c</color>
+    <color name="colorBTC">#FFFF8800</color>
+    <color name="colorETH">#000000</color>
+    <color name="colorCurrency">#4078c0</color>
+    <color name="colorText">#37474F</color>
+    <color name="colorPrOld">#37474F</color>
+    <color name="colorPrDarkOld">#263238</color>
+</resources>
